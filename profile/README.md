@@ -56,5 +56,5 @@ orvyen-agentic scan .
 ---
 
 <div align="center">
-  <sub>Developed by <b>Algorzen Pte. Ltd.</b> (Singapore) &bull; Official Repository: <a href="https://github.com/orvyen/orvyen-agentic">orvyen/orvyen-agentic</a></sub>
+  <sub>Developed by <b>Orvyen</b> &bull; Official Repository: <a href="https://github.com/orvyen/orvyen-agentic">orvyen/orvyen-agentic</a></sub>
 </div>
